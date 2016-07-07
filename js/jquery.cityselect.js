@@ -144,7 +144,7 @@ required:必选项
 
 
 		console.log(11)
-		console.log(22)
+		console.log(22);console.log(22)
 
 	};
 })(jQuery);
