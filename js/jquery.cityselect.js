@@ -141,5 +141,8 @@ required:必选项
 			city_json=settings.url;
 			init();
 		};
+
+
+		console.log(11)
 	};
 })(jQuery);
